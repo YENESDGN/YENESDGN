@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data science & AI enthusiast | Musician | Open source contributor.
+Full Stack Developer | Data science & AI enthusiast | Musician | Open source contributor.
 
 
 ## 🌐 Socials:
